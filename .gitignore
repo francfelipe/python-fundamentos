@@ -1,2 +1,43 @@
 eval "$(ssh-agent -s)"
 eval "$(ssh-agent -s)".pub
+
+# Arquivos de configuração do IDE
+.idea/
+.vscode/
+*.sublime-workspace
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# Dependências
+/node_modules/
+/vendor/
+
+# Arquivos compilados
+*.o
+*.so
+*.exe
+*.dll
+*.class
+
+# Pastas de build
+/build/
+/dist/
+
+# Arquivos de log
+*.log
+log.txt
+
+# Arquivos temporários
+*.tmp
+*.swp
+*~
+
+# Arquivos de ambiente e configuração
+.env
+*.config
+secret-config.json
+
+# Pasta de relatórios de cobertura
+/coverage/
