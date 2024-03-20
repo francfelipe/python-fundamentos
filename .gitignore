@@ -1,5 +1,6 @@
 eval "$(ssh-agent -s)"
 eval "$(ssh-agent -s)".pub
+.venv/
 
 # Arquivos de configuração do IDE
 .idea/
