@@ -6,6 +6,10 @@ Mentor: Matheus Willian
 
 - Apresentação
 - Revisão de Python
+    - Python Sequencial
+    - Operadores
+    - Estrutura de Decisão
+    - Estrutura de Repetição
 - Biblioteca Numpy
 - Data Visualization
 - Pandas
