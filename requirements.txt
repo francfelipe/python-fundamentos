@@ -43,7 +43,6 @@ pyzmq==25.1.2
 requests==2.31.0
 seaborn==0.13.2
 six==1.16.0
-SQLAlchemy==2.0.29
 sqlparse==0.4.4
 stack-data==0.6.3
 tornado==6.4
